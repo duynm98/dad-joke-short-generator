@@ -139,7 +139,8 @@ docs/_build/
 # Windows
 Thumbs.db
 
-res/
+res/images
+res/songs
 temp/
 output/
 *.db
