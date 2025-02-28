@@ -4,3 +4,5 @@ res/aws
 temp/
 output/
 *.db
+res/fonts/STHeitiLight.ttc
+res/fonts/STHeitiMedium.ttc
