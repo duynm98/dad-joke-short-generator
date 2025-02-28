@@ -1,0 +1,6 @@
+res/images
+res/songs
+res/aws
+temp/
+output/
+*.db
